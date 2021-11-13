@@ -1,5 +1,5 @@
 # trading_ml
-Data acquisition, data, visualization data manipulation, applied simple classifiers machine learning to predict buy/sell/hold
+Data acquisition, data visualization, data manipulation, applied simple classifiers machine learning to predict buy/sell/hold
 
 0. visualized the stock price trend using candlestick and trading volumn
 1. Used beautifulsoup and request packages to acquire all tickers in s&p500 and saved to local
